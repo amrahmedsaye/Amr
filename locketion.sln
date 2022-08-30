@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "locketion", "locketion\locketion.csproj", "{1143742E-939D-463C-8863-EE8CA3BD46DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cor", "cor\cor.csproj", "{6DE6E4AC-5B43-4570-A112-57F074046982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infastactuer", "infastactuer\infastactuer.csproj", "{D079C7F0-853B-46A1-8A7C-88334F48BDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1143742E-939D-463C-8863-EE8CA3BD46DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1143742E-939D-463C-8863-EE8CA3BD46DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1143742E-939D-463C-8863-EE8CA3BD46DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1143742E-939D-463C-8863-EE8CA3BD46DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE6E4AC-5B43-4570-A112-57F074046982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE6E4AC-5B43-4570-A112-57F074046982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE6E4AC-5B43-4570-A112-57F074046982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE6E4AC-5B43-4570-A112-57F074046982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D079C7F0-853B-46A1-8A7C-88334F48BDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D079C7F0-853B-46A1-8A7C-88334F48BDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D079C7F0-853B-46A1-8A7C-88334F48BDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D079C7F0-853B-46A1-8A7C-88334F48BDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5353F6-DF56-4B4B-9223-9786A967B63A}
+	EndGlobalSection
+EndGlobal
